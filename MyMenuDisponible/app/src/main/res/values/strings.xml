@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">My Menu Disponible</string>
+    <string name="action_setting">Setting</string>
+
+<string name="Menu_Disponibles">Menu Disponibles</string>
+<string name="Lista_de_Platos">Lista de Platos</string>
+
+<string-array name="object_array">
+    <item>Selecione</item>
+    <item>Aji de gallina</item>
+    <item>arroz con marisco</item>
+    <item>arroz con pollo</item>
+    <item>ceviche</item>
+</string-array>
+
+<string-array name="object_image">
+    <item>@drawable/blanco</item>
+    <item>@drawable/ajigallina</item>
+    <item>@drawable/arrozmarisco</item>
+    <item>@drawable/arrozpollo</item>
+    <item>@drawable/ceviche</item>
+</string-array>
+
+</resources>
