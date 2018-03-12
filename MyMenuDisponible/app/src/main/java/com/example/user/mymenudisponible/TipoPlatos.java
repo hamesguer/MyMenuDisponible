@@ -7,6 +7,7 @@ package com.example.user.mymenudisponible;
 public class TipoPlatos {
 
     Double productos;
+    String Nombre;
 
 
 }
